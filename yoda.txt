@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 No try there is, do or do not.
+=======
+DO OR DO NOT, THERE IS NO TRY.
+>>>>>>> 8e38c0d9e5dd875f362f5b1867e6769c64abfbc9
